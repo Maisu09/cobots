@@ -5,7 +5,7 @@
 using namespace std;
 
 const int PORT = 9999;
-const string HOST = "192.168.0.199";
+const string HOST = "192.168.0.";
 
 int main() {
     string html = "Connected";
